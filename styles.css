@@ -39,3 +39,39 @@ body{
     margin-top: 20px;
     height: 30px  
 }
+
+
+
+
+
+
+.last-container {
+    height: 100px;
+    background: #111010;
+    text-align: center;
+    padding-top:  50px ; 
+    padding-bottom:  50px ; 
+    margin-top:  5PX; ;
+}
+
+.Flower{
+    color: #e55473
+}
+
+.Shop{
+    color:white
+}
+.last-description{
+    color: rgba(255, 255, 255, 0.50);
+    font-size: 12px;
+}
+H1, P {
+    margin-bottom: 5PX;
+
+}
+
+.copyright{
+    font-size:  8px;
+    color: rgba(255, 255, 255, 0.30);
+}
+
