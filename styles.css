@@ -111,18 +111,43 @@ body{
     justify-content: space-around;
     list-style: none;
     margin-top: 10px;
-    
+}
+
+
+/* offer details  */
+
+.offer-container{
+
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    text-align: center; 
+}
+
+h2{
+color: color: #272727;
+}
+
+p{
+   text-size-adjust: 10px; 
+}
+.off-color{
+    color :#e55473
+
+}
+
+
+.offer-details{
+
 }
 
 
 
+.offer-picture{
 
-
-
-
-
-
-
+}
 
 
 
